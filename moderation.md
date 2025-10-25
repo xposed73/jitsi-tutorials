@@ -40,3 +40,6 @@ print(owner_link)
 print("\nMember Link (Participant):")
 print(member_link)
 ```
+
+Follow this for modifying jitsi config
+https://github.com/jitsi-contrib/prosody-plugins/blob/main/token_affiliation/README.md
