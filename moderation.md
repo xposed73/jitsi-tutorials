@@ -8,7 +8,7 @@ from urllib.parse import quote
 # Jitsi JWT settings
 app_id = "JITSI_APP_UNIQUE_ID"
 app_secret = "JITSI_APP_SECRET_KEY"
-domain = "meet.website.com"
+domain = "meet.domain.tld"
 room_name = "Room-Exmple"  # can be dynamic
 
 def generate_token(name, afffiliation):
