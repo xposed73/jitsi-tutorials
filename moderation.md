@@ -1,5 +1,13 @@
 # Use Jitsi-Meet with Moderation
 
+## Install Jitsi-Meet-Tokens
+
+```bash
+sudo apt install jitsi-meet-tokens
+```
+
+## Generate links
+
 ```python
 import jwt
 import time
